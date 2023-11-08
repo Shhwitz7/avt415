@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+font-family:Roboto , "Roboto Bold", "Roboto Medium", "Roboto Regular", "Roboto Bold", "Roboto Medium", "Roboto Regular", "Roboto Thin", "Roboto Light";
+
+    font-size: 16px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin-top: 0%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+h1 {font-family:"Roboto";font-style:"Medium";font-weight: 700;font-size:100px;color: #003758}
+h2 {font-family:Roboto;font-style: "Thin";font-weight: 700;font-size:25px;color: #5E87B6}
+
+h3 {font-family:Roboto ;font-style:"Regular";font-weight: 700;font-size:30px;color: #011440 }
+
+
+
+p {
+    font-family:Roboto , "Roboto Bold", "Roboto Medium", "Roboto Regular", "Roboto Thin", "Roboto Light";
+    font-style: "Roboto Medium";
+    font-size: 2em;
+   text-align: left;
+	color: #014A79;
+}
